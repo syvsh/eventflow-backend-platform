@@ -1,3 +1,7 @@
 pydantic==2.11.1
 fastapi==0.113.0
 uvicorn==0.28.0
+SQLAlchemy==2.0.46
+pytest==8.4.2
+httpx==0.28.1
+psycopg2-binary==2.9.11
